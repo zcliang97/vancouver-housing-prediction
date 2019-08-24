@@ -27,7 +27,7 @@ From the dataset of 500 currently active real estate postings, 80% of the data i
 
 The output is the following:
 
-<img src="images/loss_epoch500_neuron1000.png", width="80%" />
+<img src="images/loss_epoch500_neuron1000.png" alt="simple_loss" width="800" />
 
 From the graph, it is evidence that the validation data set is steadily decreasing in loss which means that the model is not overfitting the training data.
 
